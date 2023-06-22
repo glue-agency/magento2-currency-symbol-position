@@ -1,5 +1,5 @@
 {
-  "name": "php-cuong/magento2-currency-symbol-position",
+  "name": "glue-agency/magento2-currency-symbol-position",
   "description":"Magento 2 change the currency symbol position from left to right or from right to left",
   "keywords": [
     "magento 2",
@@ -10,11 +10,11 @@
     "magento 2 extension free"
   ],
   "require": {
-    "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0",
-    "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*"
+    "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|^8",
+    "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*"
   },
   "type": "magento2-module",
-  "version": "2.1.0",
+  "version": "3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
